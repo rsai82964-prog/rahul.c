@@ -2,7 +2,6 @@
 int main()
 {
     int num, temp, digit, i, fact, sum = 0;
-    printf("Enter a number: ");
     scanf("%d", &num);
     temp = num;
     while (temp > 0)
