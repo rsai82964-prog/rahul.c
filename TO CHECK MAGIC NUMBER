@@ -3,7 +3,7 @@ void main()
 {
     int digit,sum,temp;
     scanf("%d",&temp);
-    while (temp>9){
+    while (temp>8){
         sum=0;
         while(temp>0){
         digit=temp%10;
