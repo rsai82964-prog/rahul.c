@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int reversed=0,num;
+    int reversed=0,num; 
     scanf("%d",&num);
     while (num!=0){
         int digit = num%10;
