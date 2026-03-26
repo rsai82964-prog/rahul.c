@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main() 
 {
     int arr[]={1,4,45,6,10,8};
     int n=6,sum=22,i,j,k;
