@@ -5,5 +5,5 @@ int main ()
     int max;
     max=(a>b)?a:b;
     printf("the maximum value is:%d",max);
-    return 0;
+    return 0; 
 }
