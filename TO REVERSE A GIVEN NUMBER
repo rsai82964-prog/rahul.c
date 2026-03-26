@@ -8,5 +8,6 @@ void main()
         reversed=reversed*10+digit;
         num=num/10;
     }
+
     printf("the reversed number is %d",reversed);
 }
