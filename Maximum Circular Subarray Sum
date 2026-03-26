@@ -7,7 +7,7 @@ int main()
     for(i=0;i<n;i++)
     {
         sum+=arr[i];
-        if(sum>max)
+        if(sum>max) 
             max=sum;
         if(sum<0)
             sum=0;
