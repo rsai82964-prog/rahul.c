@@ -8,7 +8,7 @@ void main()
         int digit = n%10;
         cube=digit*digit*digit;
         sum=sum+cube;
-        n=n/10;
+        n=n/10; 
     }
     if(a==sum){
         printf("the number is armstrong");
